@@ -4,3 +4,6 @@ package-lock.json
 
 # gitbook
 _book
+
+# vscode settings
+.vscode
