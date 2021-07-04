@@ -1,38 +1,20 @@
 # はじめに
 
-## GitbookTemplateとは
-- Gitbookでプログラムの仕様書や設計書を作成するために必要なツール、プラグインをバンドルしたプロジェクトのテンプレートです。
-- 日本語プロジェクトでの使用しか考慮していません。
-	- This template is only considered for use in Japanese projects.
+## 本プロジェクトについて
+- [本プロジェクト](https://github.com/dtxmuramasa/AoZs434AZUMADocs)は『Age of Z』のサーバー#434の日本人同盟、『(AZU)AZUMA』による知識の共有を目的として立ち上げ、管理、運用されています。
 
-## 注意事項
+<br>
+<br>
+<hr>
+
+# ライセンス
+## Gitbookテンプレート
+- 本プロジェクトは[GitbookTemplate](https://github.com/dtxmuramasa/GitbookTemplate)を基にしています。
+
+## Gitbook
 - 本ドキュメントは[Gitbook](https://github.com/GitbookIO/gitbook)を用いて生成しています。
 - 本ドキュメントの更新には[Gitbook](https://github.com/GitbookIO/gitbook)が必要です。
 	- [Gitbook](https://github.com/GitbookIO/gitbook)の利用には[Node.js](https://nodejs.org/ja/)が必要です。
-
-
-## ドキュメント生成環境構築手順
-1. 下記コマンドを実行します。
-
-```
-$ bash provision.sh
-```
-
-- 詳しくは[ドキュメント生成環境構築](./src/StructEnvironments/BuildDocument.md)をご覧ください。
-
-
-## ドキュメントの生成、更新コマンド
-
-``` bash:command
-$ npm run build
-```
-
-## ドキュメント閲覧サーバ起動コマンド
-- 下記コマンド実行後、[http://localhost:4000](http://localhost:4000)で確認できます。
-
-``` bash:command
-$ npm run serve
-```
 
 ## 導入プラグイン
 - -sharing
