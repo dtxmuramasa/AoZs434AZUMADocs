@@ -6,6 +6,7 @@
 * 戦闘
   * [兵士解説](./src/Battle/Soldiers.md)
 * 戦略・戦術
+  * [防衛戦の指針について](./src/Tactics/Deffence.md)
   * [TA・TD講座](./src/Tactics/TATD.md)
 * プロジェクトの環境構築手順
     * [共通の環境構築](./src/StructEnvironments/Generally.md)
